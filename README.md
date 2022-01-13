@@ -1,3 +1,3 @@
-## Repo para POC de libs de formluários
-# Libs testadas:
+# Repo para POC de libs de formulários
+## Libs testadas:
 
